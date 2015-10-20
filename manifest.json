@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "LGTM",
-	"version": "1.0",
-	"description": "Shows a LGTM button on pull requests in Github.",
+	"name": "Super Happy Whale",
+	"version": "0.0.1",
+	"description": "Shows a Super Happy Whale button on pull requests in Github.",
 	"permissions": [
 		"tabs",
 		"https://code.jquery.com/jquery-2.1.1.min.js"
