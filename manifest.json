@@ -10,7 +10,6 @@
 	"content_scripts": [{
 		"matches": ["https://github.com/*pull*"],
 		"js": ["jquery-2.1.1.min.js", "contentScript.js"],
-		"css": ["style.css"],
 		"run_at": "document_end"
 	}]
 }

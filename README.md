@@ -1,7 +1,7 @@
-LGTM
+Super Happy Whale
 ====
 
-Shows a LGTM button on pull requests in Github.
+Shows a :gift_heart: :whale2: button on pull requests in Github.
 
 Installation
 ------------
